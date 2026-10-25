@@ -24,8 +24,8 @@ cask "ovdb" do
   end
 
   name "ovdb"
-  desc "ovdb — the OpenVaultDB command-line interface"
-  homepage "https://github.com/openvaultdb/openvaultdb-go"
+  desc "OpenVaultDB (OVDB) command-line interface"
+  homepage "https://openvaultdb.com/"
 
   livecheck do
     skip "Auto-generated on release."
